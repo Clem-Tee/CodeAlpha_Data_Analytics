@@ -27,7 +27,13 @@ The `notebooks/visualization.ipynb` notebook walks through the creation of sever
 -   **Jupyter Notebook**: As the interactive development environment.
 
 ## 📂 Project Structure
-<pre> <code> visualization-air-quality/ ├── myenv/ # Virtual environment directory (ignored by git) ├── notebooks/ │ └── visualization.ipynb # The main Jupyter Notebook with all analysis and plots ├── .gitignore ├── README.md └── requirements.txt </code> </pre>
+visualization-air-quality/
+├── myenv/ # Virtual environment directory (ignored by git)
+├── notebooks/
+│ └── visualization.ipynb # The main Jupyter Notebook with all analysis and plots
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 
 ## 🚀 How to Use
