@@ -16,7 +16,7 @@ A complete data science workflow—from web scraping and cleaning to analysis—
 
 - **Skills Demonstrated:** Web Scraping, Data Cleaning, Data Processing, Project Structuring
 - **Technologies:** Python, BeautifulSoup, Requests, Pandas  
-- ➡️ [View Project Details & Code in `jumia-laptop-scraper/`](jumia-laptop-scraper/)
+- ➡️ [View Project Details & Code in `jumia-laptop-scraper/`] (jumia-laptop-scraper/)
 
 ---
 
@@ -26,7 +26,7 @@ An exploratory data analysis (EDA) of forecasted air quality data for Nairobi, K
 
 - **Skills Demonstrated:** API Integration, JSON Data Handling, EDA, Statistical Analysis, Data Visualization  
 - **Technologies:** Python, Pandas, Matplotlib, Seaborn, Requests, python-dotenv  
-- ➡️ [View Project Details & Code in `eda-air-quality/`](eda-air-quality/)
+- ➡️ [View Project Details & Code in `eda-air-quality/`] (eda-air-quality/)
 
 ---
 
@@ -36,7 +36,7 @@ A deep dive into telling a story with data using advanced visualization techniqu
 
 - **Skills Demonstrated:** Data Storytelling, Advanced Visualization, Statistical Graphics, Interactive Charting  
 - **Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly Express  
-- ➡️ [View Project Details & Code in `visualization-air-quality/`](visualization-air-quality/)
+- ➡️ [View Project Details & Code in `visualization-air-quality/`] (visualization-air-quality/)
 
 ---
 
