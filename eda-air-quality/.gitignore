@@ -1,0 +1,33 @@
+# --- Credentials ---
+# Never commit your environment variables file.
+.env
+
+# --- Python Virtual Environment ---
+# This is machine-specific and can be recreated from requirements.txt.
+venv/
+/venv/
+.venv/
+/.venv/
+
+# --- Python Artifacts ---
+# Byte-compiled / optimized / C-extensions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter / IPython Notebook ---
+# Checkpoint files
+.ipynb_checkpoints
+
+# --- OS-specific files ---
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+Desktop.ini
+
+# --- IDE / Editor Directories ---
+# VS Code
+.vscode/
+# PyCharm
+.idea/
